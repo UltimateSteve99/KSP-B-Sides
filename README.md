@@ -54,3 +54,6 @@ A few weeks ago, I had the idea to make a B side modpack for KSP. Everything is 
 ## Changelog
 ### 1.0
 * Initial Release
+
+## Where are the C sides?
+The C sides will be created when I have received evidence of every B side body being conquered.
