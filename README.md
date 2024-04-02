@@ -6,7 +6,9 @@
 4. Download the KSP-B-Sides zip folder, extract the files. Inside the folder you will find a GameData folder, and inside that folder there is another KSP-B-Sides folder. Drag this folder into your GameData folder. The Kerbol B Sides are not currently on CKAN.
 
 ### Recommended Mods
-1. Better Time Warp.
+1. Better Time Warp Continued. Time warp altitudes were not adjusted and you're gonna need ion engines. It isn't technically a requirement but it is extremely highly recommended.
+2. Any mod that adds larger antennas. Eeloo can be pretty far out at times.
+
 ### Overview
 This is a mod for Kerbal Space Program that increases the difficulty of the stock star system by taking each world's characteristics and rapmping them up to 11. It is intended to be played by experienced KSP players looking for a challenge, with stock+DLC parts, in sandbox mode or science mode with high rewards.
 
@@ -43,13 +45,11 @@ A few weeks ago, I had the idea to make a B side modpack for KSP. Everything is 
 
 ## Known Issues - This is my first mod, help is welcome!
 1. Oceans do not show up in the ScaledSpace versions of Moho and Vall. Kerbin's ScaledSpace model does not match up with its PQS model.
-2. Moho's atmospheric halo is blue, when it is supposed to be red (I have tried a few things, help)
-3. Portions of Laythe's terrain disappear sometimes
-4. Jool's ocean does not play nice with low camera angles
-5. Kerbol's luminosity increase does not work as intended, solar panels still generate the default amount of power.
-6. The highest peaks on Kerbin and Pol exceed the fade-out distance for the PQS and are translucent. I can't figure out how to make my changes to these values actually get applied.
-7. Time warp altitudes are unchanged from vanilla
-8. Minimum safe altitudes are unchanged from vanilla, do not trust KER or the debug menu, you will crash into mountains.
+2. Jool's ocean does not play nice with low camera angles
+3. Jool's atmosphere does not play nice with high camera angles
+4. Kerbol's luminosity increase does not work as intended, solar panels still generate the default amount of power.
+5. Time warp altitudes are unchanged from vanilla (laziness)
+6. Minimum safe altitudes are unchanged from vanilla (can't figure out how), do not trust KER or the debug menu, you will crash into mountains.
 
 ## Changelog
 ### 1.0
