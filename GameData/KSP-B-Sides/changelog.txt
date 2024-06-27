@@ -1,0 +1,29 @@
+KSP B Sides Changelog
+
+
+Version 1.1
+
+Bugfixes:
+* Fixed Duna-B being shown as Duna (displayName was misspelled as dispalyName)
+* Fixed Bop-B being shown as Bop (displayName was written as name)
+* Fixed Pol-B being shown as Pol (displayName was omitted)
+* Remade Bop-B from scratch to fix an issue where it wouldn't render properly if below 600 meters above the surface (not sure how I didn't catch that) (This was an issue in development but I thought I had fixed it)
+
+Changes:
+* Bop-B is now smaller, 1800m radius vs around 2300m
+* Bop-B gravity slightly increased (8G)
+* Deleted a bunch of commented out configs to make things a bit cleaner
+
+Additions:
+* Bop-Bb, a submoon of Bop-B with incredibly high gravity (14G) and incredibly tiny size (5m radius) as a remnant of a funny test I did. It is pretty buggy but I thought I'd keep it in because there's got to be at least one person who was also curious as to what would happen if you made a world that small.
+
+Known issues:
+* Bop-Bb doesn't render properly unless you are inside its SOI, chalk this up to it being the Kraken's eyeball
+* When in very low orbits around Bop-B and Bop-Bb the game thinks you are under acceleration and won't let you leave or time warp
+
+
+
+
+Version 1.0
+
+Initial Release
